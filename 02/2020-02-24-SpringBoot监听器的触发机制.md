@@ -57,5 +57,5 @@ public interface ApplicationListener<E extends ApplicationEvent> extends EventLi
 ![SpringBoot源码分析-监听器的触发机制01.jpg](https://i.loli.net/2020/02/24/WYSofx3yPli8zcV.jpg)
 
 - 简单的流程图
-![SpringBoot源码分析-监听器的触发机制02.jpg](https://i.loli.net/2020/02/24/6ECKmryPWezboRk.jpg)
+![SpringBoot源码分析-监听器的触发机制02.jpg](https://i.loli.net/2020/03/01/IlZuzbvm9itMOG3.jpg)
 
